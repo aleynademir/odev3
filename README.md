@@ -1,2 +1,2 @@
-Kişisel Sayfamızı Detaylandırmaya Devam Etmek
+İlk Web Sayfamızı Oluşturmak
 #  www.patika.dev
